@@ -28,7 +28,7 @@ CREATE TABLE netflix
     description  VARCHAR(550)
 );```
 
-##Business problem and solution
+### Business problem and solution
 
 ```SQL SELECT * FROM netflix.netflixs;
 SELECT COUNT(*) AS total
